@@ -1,0 +1,10 @@
+C:\Users\HellsinGas\source\repos\Daugiagijis1\Daugiagijis1\obj\Debug\Daugiagijis1.csprojAssemblyReference.cache
+C:\Users\HellsinGas\source\repos\Daugiagijis1\Daugiagijis1\obj\Debug\Daugiagijis1.Form1.resources
+C:\Users\HellsinGas\source\repos\Daugiagijis1\Daugiagijis1\obj\Debug\Daugiagijis1.Properties.Resources.resources
+C:\Users\HellsinGas\source\repos\Daugiagijis1\Daugiagijis1\obj\Debug\Daugiagijis1.csproj.GenerateResource.cache
+C:\Users\HellsinGas\source\repos\Daugiagijis1\Daugiagijis1\obj\Debug\Daugiagijis1.csproj.CoreCompileInputs.cache
+C:\Users\HellsinGas\source\repos\Daugiagijis1\Daugiagijis1\bin\Debug\Daugiagijis1.exe.config
+C:\Users\HellsinGas\source\repos\Daugiagijis1\Daugiagijis1\bin\Debug\Daugiagijis1.exe
+C:\Users\HellsinGas\source\repos\Daugiagijis1\Daugiagijis1\bin\Debug\Daugiagijis1.pdb
+C:\Users\HellsinGas\source\repos\Daugiagijis1\Daugiagijis1\obj\Debug\Daugiagijis1.exe
+C:\Users\HellsinGas\source\repos\Daugiagijis1\Daugiagijis1\obj\Debug\Daugiagijis1.pdb
