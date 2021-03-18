@@ -1,0 +1,40 @@
+D:\Visual studio\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.Form1.resources
+D:\Visual studio\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.Properties.Resources.resources
+D:\Visual studio\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.csproj.GenerateResource.cache
+D:\Visual studio\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.csproj.CoreCompileInputs.cache
+D:\Visual studio\MultiThreadTask2\MultiThreadTask2\bin\Debug\MultiThreadTask2.exe.config
+D:\Visual studio\MultiThreadTask2\MultiThreadTask2\bin\Debug\MultiThreadTask2.exe
+D:\Visual studio\MultiThreadTask2\MultiThreadTask2\bin\Debug\MultiThreadTask2.pdb
+D:\Visual studio\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.exe
+D:\Visual studio\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.pdb
+D:\Visual studio\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.csprojAssemblyReference.cache
+C:\PROJECTS\MultiThreadTask2\MultiThreadTask2\bin\Debug\MultiThreadTask2.exe.config
+C:\PROJECTS\MultiThreadTask2\MultiThreadTask2\bin\Debug\MultiThreadTask2.exe
+C:\PROJECTS\MultiThreadTask2\MultiThreadTask2\bin\Debug\MultiThreadTask2.pdb
+C:\PROJECTS\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.csprojAssemblyReference.cache
+C:\PROJECTS\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.Form1.resources
+C:\PROJECTS\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.Properties.Resources.resources
+C:\PROJECTS\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.csproj.GenerateResource.cache
+C:\PROJECTS\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.csproj.CoreCompileInputs.cache
+C:\PROJECTS\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.exe
+C:\PROJECTS\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.pdb
+D:\Download\MultiThreadTask2 (3)\MultiThreadTask2\MultiThreadTask2\bin\Debug\MultiThreadTask2.exe.config
+D:\Download\MultiThreadTask2 (3)\MultiThreadTask2\MultiThreadTask2\bin\Debug\MultiThreadTask2.exe
+D:\Download\MultiThreadTask2 (3)\MultiThreadTask2\MultiThreadTask2\bin\Debug\MultiThreadTask2.pdb
+D:\Download\MultiThreadTask2 (3)\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.csprojAssemblyReference.cache
+D:\Download\MultiThreadTask2 (3)\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.Form1.resources
+D:\Download\MultiThreadTask2 (3)\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.Properties.Resources.resources
+D:\Download\MultiThreadTask2 (3)\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.csproj.GenerateResource.cache
+D:\Download\MultiThreadTask2 (3)\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.csproj.CoreCompileInputs.cache
+D:\Download\MultiThreadTask2 (3)\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.exe
+D:\Download\MultiThreadTask2 (3)\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.pdb
+D:\Download\MultiThreadTask2 (4)\MultiThreadTask2\MultiThreadTask2\bin\Debug\MultiThreadTask2.exe.config
+D:\Download\MultiThreadTask2 (4)\MultiThreadTask2\MultiThreadTask2\bin\Debug\MultiThreadTask2.exe
+D:\Download\MultiThreadTask2 (4)\MultiThreadTask2\MultiThreadTask2\bin\Debug\MultiThreadTask2.pdb
+D:\Download\MultiThreadTask2 (4)\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.csprojAssemblyReference.cache
+D:\Download\MultiThreadTask2 (4)\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.Form1.resources
+D:\Download\MultiThreadTask2 (4)\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.Properties.Resources.resources
+D:\Download\MultiThreadTask2 (4)\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.csproj.GenerateResource.cache
+D:\Download\MultiThreadTask2 (4)\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.csproj.CoreCompileInputs.cache
+D:\Download\MultiThreadTask2 (4)\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.exe
+D:\Download\MultiThreadTask2 (4)\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.pdb
