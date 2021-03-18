@@ -38,3 +38,13 @@ D:\Download\MultiThreadTask2 (4)\MultiThreadTask2\MultiThreadTask2\obj\Debug\Mul
 D:\Download\MultiThreadTask2 (4)\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.csproj.CoreCompileInputs.cache
 D:\Download\MultiThreadTask2 (4)\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.exe
 D:\Download\MultiThreadTask2 (4)\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.pdb
+F:\GITHUBAS\MultiThread_eif\MultiThreadTask2\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.csprojAssemblyReference.cache
+F:\GITHUBAS\MultiThread_eif\MultiThreadTask2\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.Form1.resources
+F:\GITHUBAS\MultiThread_eif\MultiThreadTask2\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.Properties.Resources.resources
+F:\GITHUBAS\MultiThread_eif\MultiThreadTask2\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.csproj.GenerateResource.cache
+F:\GITHUBAS\MultiThread_eif\MultiThreadTask2\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.csproj.CoreCompileInputs.cache
+F:\GITHUBAS\MultiThread_eif\MultiThreadTask2\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.exe
+F:\GITHUBAS\MultiThread_eif\MultiThreadTask2\MultiThreadTask2\MultiThreadTask2\obj\Debug\MultiThreadTask2.pdb
+F:\GITHUBAS\MultiThread_eif\MultiThreadTask2\MultiThreadTask2\MultiThreadTask2\bin\Debug\MultiThreadTask2.exe.config
+F:\GITHUBAS\MultiThread_eif\MultiThreadTask2\MultiThreadTask2\MultiThreadTask2\bin\Debug\MultiThreadTask2.exe
+F:\GITHUBAS\MultiThread_eif\MultiThreadTask2\MultiThreadTask2\MultiThreadTask2\bin\Debug\MultiThreadTask2.pdb

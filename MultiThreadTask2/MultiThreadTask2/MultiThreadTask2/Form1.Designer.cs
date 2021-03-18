@@ -34,12 +34,8 @@ namespace MultiThreadTask2
             this.EncryptButton = new System.Windows.Forms.Button();
             this.DecryptButton = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
             this.EncryptBar = new System.Windows.Forms.ProgressBar();
             this.DecryptBar = new System.Windows.Forms.ProgressBar();
-            this.EncryptTimer = new System.Windows.Forms.Label();
-            this.DecryptTimer = new System.Windows.Forms.Label();
             this.ResumeButton = new System.Windows.Forms.Button();
             this.PauseButton = new System.Windows.Forms.Button();
             this.StopButton = new System.Windows.Forms.Button();
@@ -71,7 +67,7 @@ namespace MultiThreadTask2
             // 
             this.EncryptButton.Location = new System.Drawing.Point(12, 278);
             this.EncryptButton.Name = "EncryptButton";
-            this.EncryptButton.Size = new System.Drawing.Size(188, 66);
+            this.EncryptButton.Size = new System.Drawing.Size(502, 77);
             this.EncryptButton.TabIndex = 2;
             this.EncryptButton.Text = "Ecnrypt";
             this.EncryptButton.UseVisualStyleBackColor = true;
@@ -81,7 +77,7 @@ namespace MultiThreadTask2
             // 
             this.DecryptButton.Location = new System.Drawing.Point(520, 278);
             this.DecryptButton.Name = "DecryptButton";
-            this.DecryptButton.Size = new System.Drawing.Size(188, 66);
+            this.DecryptButton.Size = new System.Drawing.Size(680, 77);
             this.DecryptButton.TabIndex = 3;
             this.DecryptButton.Text = "Decrypt";
             this.DecryptButton.UseVisualStyleBackColor = true;
@@ -89,70 +85,34 @@ namespace MultiThreadTask2
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(667, 516);
+            this.button3.Location = new System.Drawing.Point(1332, 665);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(188, 114);
+            this.button3.Size = new System.Drawing.Size(66, 23);
             this.button3.TabIndex = 4;
             this.button3.Text = "Generate Hash";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
-            // button4
-            // 
-            this.button4.Location = new System.Drawing.Point(947, 516);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(188, 114);
-            this.button4.TabIndex = 5;
-            this.button4.Text = "button4";
-            this.button4.UseVisualStyleBackColor = true;
-            // 
-            // button5
-            // 
-            this.button5.Location = new System.Drawing.Point(1012, 278);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(188, 114);
-            this.button5.TabIndex = 6;
-            this.button5.Text = "button5";
-            this.button5.UseVisualStyleBackColor = true;
-            // 
             // EncryptBar
             // 
-            this.EncryptBar.Location = new System.Drawing.Point(12, 350);
+            this.EncryptBar.Location = new System.Drawing.Point(12, 361);
             this.EncryptBar.Name = "EncryptBar";
-            this.EncryptBar.Size = new System.Drawing.Size(188, 36);
+            this.EncryptBar.Size = new System.Drawing.Size(502, 36);
             this.EncryptBar.TabIndex = 7;
             // 
             // DecryptBar
             // 
-            this.DecryptBar.Location = new System.Drawing.Point(520, 350);
+            this.DecryptBar.Location = new System.Drawing.Point(520, 361);
             this.DecryptBar.Name = "DecryptBar";
-            this.DecryptBar.Size = new System.Drawing.Size(188, 36);
+            this.DecryptBar.Size = new System.Drawing.Size(680, 36);
             this.DecryptBar.TabIndex = 8;
-            // 
-            // EncryptTimer
-            // 
-            this.EncryptTimer.AutoSize = true;
-            this.EncryptTimer.Location = new System.Drawing.Point(301, 327);
-            this.EncryptTimer.Name = "EncryptTimer";
-            this.EncryptTimer.Size = new System.Drawing.Size(46, 17);
-            this.EncryptTimer.TabIndex = 9;
-            this.EncryptTimer.Text = "label1";
-            // 
-            // DecryptTimer
-            // 
-            this.DecryptTimer.AutoSize = true;
-            this.DecryptTimer.Location = new System.Drawing.Point(823, 327);
-            this.DecryptTimer.Name = "DecryptTimer";
-            this.DecryptTimer.Size = new System.Drawing.Size(46, 17);
-            this.DecryptTimer.TabIndex = 10;
-            this.DecryptTimer.Text = "label2";
             // 
             // ResumeButton
             // 
             this.ResumeButton.DialogResult = System.Windows.Forms.DialogResult.Yes;
-            this.ResumeButton.Location = new System.Drawing.Point(12, 392);
+            this.ResumeButton.Location = new System.Drawing.Point(12, 403);
             this.ResumeButton.Name = "ResumeButton";
-            this.ResumeButton.Size = new System.Drawing.Size(94, 23);
+            this.ResumeButton.Size = new System.Drawing.Size(222, 109);
             this.ResumeButton.TabIndex = 11;
             this.ResumeButton.Text = "Resume";
             this.ResumeButton.UseVisualStyleBackColor = true;
@@ -160,9 +120,9 @@ namespace MultiThreadTask2
             // 
             // PauseButton
             // 
-            this.PauseButton.Location = new System.Drawing.Point(112, 392);
+            this.PauseButton.Location = new System.Drawing.Point(240, 403);
             this.PauseButton.Name = "PauseButton";
-            this.PauseButton.Size = new System.Drawing.Size(88, 23);
+            this.PauseButton.Size = new System.Drawing.Size(274, 109);
             this.PauseButton.TabIndex = 12;
             this.PauseButton.Text = "Pause";
             this.PauseButton.UseVisualStyleBackColor = true;
@@ -170,9 +130,9 @@ namespace MultiThreadTask2
             // 
             // StopButton
             // 
-            this.StopButton.Location = new System.Drawing.Point(12, 421);
+            this.StopButton.Location = new System.Drawing.Point(12, 518);
             this.StopButton.Name = "StopButton";
-            this.StopButton.Size = new System.Drawing.Size(188, 27);
+            this.StopButton.Size = new System.Drawing.Size(502, 101);
             this.StopButton.TabIndex = 13;
             this.StopButton.Text = "Stop";
             this.StopButton.UseVisualStyleBackColor = true;
@@ -181,9 +141,9 @@ namespace MultiThreadTask2
             // DecryptResume
             // 
             this.DecryptResume.DialogResult = System.Windows.Forms.DialogResult.Yes;
-            this.DecryptResume.Location = new System.Drawing.Point(520, 392);
+            this.DecryptResume.Location = new System.Drawing.Point(520, 403);
             this.DecryptResume.Name = "DecryptResume";
-            this.DecryptResume.Size = new System.Drawing.Size(94, 23);
+            this.DecryptResume.Size = new System.Drawing.Size(306, 109);
             this.DecryptResume.TabIndex = 14;
             this.DecryptResume.Text = "Resume";
             this.DecryptResume.UseVisualStyleBackColor = true;
@@ -191,9 +151,9 @@ namespace MultiThreadTask2
             // 
             // DecryptPause
             // 
-            this.DecryptPause.Location = new System.Drawing.Point(620, 392);
+            this.DecryptPause.Location = new System.Drawing.Point(832, 403);
             this.DecryptPause.Name = "DecryptPause";
-            this.DecryptPause.Size = new System.Drawing.Size(88, 23);
+            this.DecryptPause.Size = new System.Drawing.Size(368, 109);
             this.DecryptPause.TabIndex = 15;
             this.DecryptPause.Text = "Pause";
             this.DecryptPause.UseVisualStyleBackColor = true;
@@ -201,9 +161,9 @@ namespace MultiThreadTask2
             // 
             // DecryptStop
             // 
-            this.DecryptStop.Location = new System.Drawing.Point(520, 421);
+            this.DecryptStop.Location = new System.Drawing.Point(520, 518);
             this.DecryptStop.Name = "DecryptStop";
-            this.DecryptStop.Size = new System.Drawing.Size(188, 27);
+            this.DecryptStop.Size = new System.Drawing.Size(680, 101);
             this.DecryptStop.TabIndex = 16;
             this.DecryptStop.Text = "Stop";
             this.DecryptStop.UseVisualStyleBackColor = true;
@@ -220,12 +180,8 @@ namespace MultiThreadTask2
             this.Controls.Add(this.StopButton);
             this.Controls.Add(this.PauseButton);
             this.Controls.Add(this.ResumeButton);
-            this.Controls.Add(this.DecryptTimer);
-            this.Controls.Add(this.EncryptTimer);
             this.Controls.Add(this.DecryptBar);
             this.Controls.Add(this.EncryptBar);
-            this.Controls.Add(this.button5);
-            this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.DecryptButton);
             this.Controls.Add(this.EncryptButton);
@@ -234,7 +190,6 @@ namespace MultiThreadTask2
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
@@ -245,12 +200,8 @@ namespace MultiThreadTask2
         private System.Windows.Forms.Button EncryptButton;
         private System.Windows.Forms.Button DecryptButton;
         private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Button button5;
         private System.Windows.Forms.ProgressBar EncryptBar;
         private System.Windows.Forms.ProgressBar DecryptBar;
-        private System.Windows.Forms.Label EncryptTimer;
-        private System.Windows.Forms.Label DecryptTimer;
         private System.Windows.Forms.Button ResumeButton;
         private System.Windows.Forms.Button PauseButton;
         private System.Windows.Forms.Button StopButton;
