@@ -124,9 +124,6 @@ namespace MultiThreadTask2
             romenas = encdec.IV;
             encdec.Mode = CipherMode.CBC;
 
-
-
-
             Thread.Sleep(2000);
             string storedhash;
             string currenthash;
