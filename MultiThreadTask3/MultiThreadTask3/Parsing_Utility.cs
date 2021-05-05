@@ -94,13 +94,10 @@ namespace MultiThreadTask3
                         foreach (DataModels dataModels in outputList)
                         {
 
-                            /*something += dataModels.attribValues[i];
-                            something = something + ",";*/
+                            
                             sw.Write($"{dataModels.attribValues[i]},");
                             
-                        }
-                       // something = something.Substring(0, something.Length - 1);
-                      //  sw.WriteLine($"{something}");
+                        }                       
                         sw.Write("\r\n");
                     }
                     sw.Close();

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HellsinGas\\source\\repos\\MultiThreadTask3\\MultiThreadTask3\\MultiThreadTask3.csproj": {}
+    "F:\\GITHUBAS\\MultiThread_eif\\MultiThreadTask3\\MultiThreadTask3\\MultiThreadTask3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HellsinGas\\source\\repos\\MultiThreadTask3\\MultiThreadTask3\\MultiThreadTask3.csproj": {
+    "F:\\GITHUBAS\\MultiThread_eif\\MultiThreadTask3\\MultiThreadTask3\\MultiThreadTask3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HellsinGas\\source\\repos\\MultiThreadTask3\\MultiThreadTask3\\MultiThreadTask3.csproj",
+        "projectUniqueName": "F:\\GITHUBAS\\MultiThread_eif\\MultiThreadTask3\\MultiThreadTask3\\MultiThreadTask3.csproj",
         "projectName": "MultiThreadTask3",
-        "projectPath": "C:\\Users\\HellsinGas\\source\\repos\\MultiThreadTask3\\MultiThreadTask3\\MultiThreadTask3.csproj",
+        "projectPath": "F:\\GITHUBAS\\MultiThread_eif\\MultiThreadTask3\\MultiThreadTask3\\MultiThreadTask3.csproj",
         "packagesPath": "C:\\Users\\HellsinGas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HellsinGas\\source\\repos\\MultiThreadTask3\\MultiThreadTask3\\obj\\",
+        "outputPath": "F:\\GITHUBAS\\MultiThread_eif\\MultiThreadTask3\\MultiThreadTask3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
