@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qsDiMRDOBin5a524zBrYhHzVX4bneSww5Zk5EwsmjpDh5j4dHfQrBF/0E+XfhPDoV3y/8Mb+EFnhTXHzpxY5DA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HellsinGas\\source\\repos\\MultiThread4\\MultiThread4\\MultiThread4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HellsinGas\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\HellsinGas\\.nuget\\packages\\tesseract\\4.1.1\\tesseract.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
