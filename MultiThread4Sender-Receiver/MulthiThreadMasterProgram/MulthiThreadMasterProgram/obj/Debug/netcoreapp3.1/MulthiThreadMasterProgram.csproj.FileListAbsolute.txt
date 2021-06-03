@@ -1,0 +1,15 @@
+C:\Users\HellsinGas\source\repos\MulthiThreadMasterProgram\MulthiThreadMasterProgram\bin\Debug\netcoreapp3.1\MulthiThreadMasterProgram.exe
+C:\Users\HellsinGas\source\repos\MulthiThreadMasterProgram\MulthiThreadMasterProgram\bin\Debug\netcoreapp3.1\MulthiThreadMasterProgram.deps.json
+C:\Users\HellsinGas\source\repos\MulthiThreadMasterProgram\MulthiThreadMasterProgram\bin\Debug\netcoreapp3.1\MulthiThreadMasterProgram.runtimeconfig.json
+C:\Users\HellsinGas\source\repos\MulthiThreadMasterProgram\MulthiThreadMasterProgram\bin\Debug\netcoreapp3.1\MulthiThreadMasterProgram.runtimeconfig.dev.json
+C:\Users\HellsinGas\source\repos\MulthiThreadMasterProgram\MulthiThreadMasterProgram\bin\Debug\netcoreapp3.1\MulthiThreadMasterProgram.dll
+C:\Users\HellsinGas\source\repos\MulthiThreadMasterProgram\MulthiThreadMasterProgram\bin\Debug\netcoreapp3.1\MulthiThreadMasterProgram.pdb
+C:\Users\HellsinGas\source\repos\MulthiThreadMasterProgram\MulthiThreadMasterProgram\obj\Debug\netcoreapp3.1\MulthiThreadMasterProgram.csprojAssemblyReference.cache
+C:\Users\HellsinGas\source\repos\MulthiThreadMasterProgram\MulthiThreadMasterProgram\obj\Debug\netcoreapp3.1\MulthiThreadMasterProgram.Form1.resources
+C:\Users\HellsinGas\source\repos\MulthiThreadMasterProgram\MulthiThreadMasterProgram\obj\Debug\netcoreapp3.1\MulthiThreadMasterProgram.csproj.GenerateResource.cache
+C:\Users\HellsinGas\source\repos\MulthiThreadMasterProgram\MulthiThreadMasterProgram\obj\Debug\netcoreapp3.1\MulthiThreadMasterProgram.AssemblyInfoInputs.cache
+C:\Users\HellsinGas\source\repos\MulthiThreadMasterProgram\MulthiThreadMasterProgram\obj\Debug\netcoreapp3.1\MulthiThreadMasterProgram.AssemblyInfo.cs
+C:\Users\HellsinGas\source\repos\MulthiThreadMasterProgram\MulthiThreadMasterProgram\obj\Debug\netcoreapp3.1\MulthiThreadMasterProgram.csproj.CoreCompileInputs.cache
+C:\Users\HellsinGas\source\repos\MulthiThreadMasterProgram\MulthiThreadMasterProgram\obj\Debug\netcoreapp3.1\MulthiThreadMasterProgram.dll
+C:\Users\HellsinGas\source\repos\MulthiThreadMasterProgram\MulthiThreadMasterProgram\obj\Debug\netcoreapp3.1\MulthiThreadMasterProgram.pdb
+C:\Users\HellsinGas\source\repos\MulthiThreadMasterProgram\MulthiThreadMasterProgram\obj\Debug\netcoreapp3.1\MulthiThreadMasterProgram.genruntimeconfig.cache
